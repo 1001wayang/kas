@@ -280,4 +280,5 @@ https://archive.org/download/wahyu/978.mp3
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",16
 https://archive.org/download/wahyu/979.mp3
 
+shfredmi@ ~K2022
 https://archive.org/details/iconwayang
