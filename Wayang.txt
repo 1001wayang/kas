@@ -1,0 +1,283 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",01
+https://archive.org/download/wahyu/A.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",02
+https://archive.org/download/wahyu/B.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",03
+https://archive.org/download/wahyu/C.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",04
+https://archive.org/download/wahyu/D.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",05
+https://archive.org/download/wahyu/E.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",06
+https://archive.org/download/wahyu/F.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",07
+https://archive.org/download/wahyu/G.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",08
+https://archive.org/download/wahyu/H.mp3
+
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",01
+https://archive.org/download/wahyu/I.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",02
+https://archive.org/download/wahyu/J.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",03
+https://archive.org/download/wahyu/K.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",04
+https://archive.org/download/wahyu/L.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",05
+https://archive.org/download/wahyu/M.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",06
+https://archive.org/download/wahyu/N.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",07
+https://archive.org/download/wahyu/O.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",08
+https://archive.org/download/wahyu/P.mp3
+
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",01
+https://archive.org/download/wahyu/A1.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",02
+https://archive.org/download/wahyu/A2.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",03
+https://archive.org/download/wahyu/A3.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",04
+https://archive.org/download/wahyu/A4.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",05
+https://archive.org/download/wahyu/A5.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",06
+https://archive.org/download/wahyu/A6.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",07
+https://archive.org/download/wahyu/A7.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",08
+https://archive.org/download/wahyu/A8.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",09
+https://archive.org/download/wahyu/A9.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",10
+https://archive.org/download/wahyu/A91.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",11
+https://archive.org/download/wahyu/A92.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",12
+https://archive.org/download/wahyu/A93.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",13
+https://archive.org/download/wahyu/A94.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",14
+https://archive.org/download/wahyu/A95.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",15
+https://archive.org/download/wahyu/A96.mp3
+
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",01
+https://archive.org/download/wahyu/A921.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",02
+https://archive.org/download/wahyu/A922.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",03
+https://archive.org/download/wahyu/A923.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",04
+https://archive.org/download/wahyu/A924.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",05
+https://archive.org/download/wahyu/A925.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",06
+https://archive.org/download/wahyu/A926.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",07
+https://archive.org/download/wahyu/A927.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",08
+https://archive.org/download/wahyu/A928.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",09
+https://archive.org/download/wahyu/A929.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",10
+https://archive.org/download/wahyu/A930.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",11
+https://archive.org/download/wahyu/A931.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",13
+https://archive.org/download/wahyu/A932.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",14
+https://archive.org/download/wahyu/A933.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",15
+https://archive.org/download/wahyu/A934.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",16
+https://archive.org/download/wahyu/A935.mp3
+
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",01
+https://archive.org/download/wahyu/941.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",02
+https://archive.org/download/wahyu/942.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",03
+https://archive.org/download/wahyu/943.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",04
+https://archive.org/download/wahyu/944.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",05
+https://archive.org/download/wahyu/945.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",06
+https://archive.org/download/wahyu/946.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",07
+https://archive.org/download/wahyu/947.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",08
+https://archive.org/download/wahyu/948.mp3
+
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bima%20labuh.png" group-title="Bima Labuh",08
+https://archive.org/download/wahyu/aa179.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",01
+https://archive.org/download/seri18/01.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",02
+https://archive.org/download/seri18/02.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",03
+https://archive.org/download/seri18/03.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",04
+https://archive.org/download/seri18/04.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",05
+https://archive.org/download/seri18/05.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",06
+https://archive.org/download/seri18/06.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",07
+https://archive.org/download/seri18/07.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",08
+https://archive.org/download/seri18/08.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",09
+https://archive.org/download/seri18/09.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",10
+https://archive.org/download/seri18/10.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",11
+https://archive.org/download/seri18/11.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",12
+https://archive.org/download/seri18/12.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",13
+https://archive.org/download/seri18/13.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",14
+https://archive.org/download/seri18/14.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",15
+https://archive.org/download/seri18/15.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",16
+https://archive.org/download/seri18/16.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",01
+https://archive.org/download/wahyu/949.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",02
+https://archive.org/download/wahyu/950.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",03
+https://archive.org/download/wahyu/951.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",04
+https://archive.org/download/wahyu/952.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",05
+https://archive.org/download/wahyu/953.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",06
+https://archive.org/download/wahyu/954.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",07
+https://archive.org/download/wahyu/955.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",08
+https://archive.org/download/wahyu/956.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",01
+https://archive.org/download/seri18/17
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",02
+https://archive.org/download/seri18/18
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",03
+https://archive.org/download/seri18/19
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",04
+https://archive.org/download/seri18/20
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",05
+https://archive.org/download/seri18/21
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",06
+https://archive.org/download/seri18/22
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",07
+https://archive.org/download/seri18/23
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",08
+https://archive.org/download/seri18/24
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",09
+https://archive.org/download/seri18/25
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",10
+https://archive.org/download/seri18/26
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",11
+https://archive.org/download/seri18/27
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",12
+https://archive.org/download/seri18/28
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",13
+https://archive.org/download/seri18/29
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",14
+https://archive.org/download/seri18/30
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",15
+https://archive.org/download/seri18/31
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",16
+https://archive.org/download/seri18/32
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",01
+https://archive.org/download/wahyu/957.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",02
+https://archive.org/download/wahyu/958.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",03
+https://archive.org/download/wahyu/959.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",04
+https://archive.org/download/wahyu/960.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",05
+https://archive.org/download/wahyu/961.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",06
+https://archive.org/download/wahyu/962.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",07
+https://archive.org/download/wahyu/963.mp3
+
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",01
+https://archive.org/download/seri18/33.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",02
+https://archive.org/download/seri18/34.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",03
+https://archive.org/download/seri18/35.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",04
+https://archive.org/download/seri18/36.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",05
+https://archive.org/download/seri18/37.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",06
+https://archive.org/download/seri18/38.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",07
+https://archive.org/download/seri18/39.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",08
+https://archive.org/download/seri18/40.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",09
+https://archive.org/download/seri18/41.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",10
+https://archive.org/download/seri18/42.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",11
+https://archive.org/download/seri18/43.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",12
+https://archive.org/download/seri18/44.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",13
+https://archive.org/download/seri18/45.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",14
+https://archive.org/download/seri18/46.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",15
+https://archive.org/download/seri18/47.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20lahir.png" group-title="Gatotkaca Lahir",16
+https://archive.org/download/seri18/48.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",01
+https://archive.org/download/wahyu/964.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",02
+https://archive.org/download/wahyu/965.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",03
+https://archive.org/download/wahyu/966.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",04
+https://archive.org/download/wahyu/967.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",05
+https://archive.org/download/wahyu/968.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",06
+https://archive.org/download/wahyu/969.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",07
+https://archive.org/download/wahyu/970.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",08
+https://archive.org/download/wahyu/971.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",09
+https://archive.org/download/wahyu/972.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",10
+https://archive.org/download/wahyu/973.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",11
+https://archive.org/download/wahyu/974.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",12
+https://archive.org/download/wahyu/975.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",13
+https://archive.org/download/wahyu/976.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",14
+https://archive.org/download/wahyu/977.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",15
+https://archive.org/download/wahyu/978.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",16
+https://archive.org/download/wahyu/979.mp3
+
+https://archive.org/details/iconwayang
