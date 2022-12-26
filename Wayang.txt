@@ -280,5 +280,135 @@ https://archive.org/download/wahyu/978.mp3
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Gondomono%20Sayembara.png" group-title="Gondomono Sayembara",16
 https://archive.org/download/wahyu/979.mp3
 
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",01
+https://archive.org/download/wahyu/980.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",02
+https://archive.org/download/wahyu/981.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",03
+https://archive.org/download/wahyu/982.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",04
+https://archive.org/download/wahyu/983.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",05
+https://archive.org/download/wahyu/984.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",06
+https://archive.org/download/wahyu/985.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",07
+https://archive.org/download/wahyu/986.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Kakrasana%20Rabi.png" group-title="Kakrasana Rabi",08
+https://archive.org/download/wahyu/987.mp3
+
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/gatotkaca%20sraya.png" group-title="Kalabendana Lena",Full
+https://archive.org/download/nms_20190819/Kalabendana%20Lena.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20krama.png" group-title="Kalabendana Lena",01
+https://archive.org/download/nms_20190819/Kalabendana%20Lena%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20krama.png" group-title="Kalabendana Lena",02
+https://archive.org/download/nms_20190819/Kalabendana%20Lena%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20krama.png" group-title="Kalabendana Lena",03
+https://archive.org/download/nms_20190819/Kalabendana%20Lena%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20krama.png" group-title="Kalabendana Lena",04
+https://archive.org/download/nms_20190819/Kalabendana%20Lena%20-%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20krama.png" group-title="Kalabendana Lena",05
+https://archive.org/download/nms_20190819/Kalabendana%20Lena%20-%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20krama.png" group-title="Kalabendana Lena",06
+https://archive.org/download/nms_20190819/Kalabendana%20Lena%20-%2006.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",01
+https://archive.org/download/wahyu/988.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",02
+https://archive.org/download/wahyu/989.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",03
+https://archive.org/download/wahyu/990.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",04
+https://archive.org/download/wahyu/991.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",05
+https://archive.org/download/wahyu/992.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",06
+https://archive.org/download/wahyu/993.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",07
+https://archive.org/download/wahyu/994.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",08
+https://archive.org/download/wahyu/995.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",09
+https://archive.org/download/wahyu/996.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",10
+https://archive.org/download/wahyu/997.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",11
+https://archive.org/download/wahyu/998.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",12
+https://archive.org/download/wahyu/999.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",13
+https://archive.org/download/wahyu/9991.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",14
+https://archive.org/download/wahyu/9992.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/karna%20tanding.png" group-title="Karna Tanding",15
+https://archive.org/download/wahyu/9993.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kembang%20wijaya%20kusuma--sutejo-.png" group-title="Kembang Tunjung Biru",01
+https://archive.org/download/wahyu/9994.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kembang%20wijaya%20kusuma--sutejo-.png" group-title="Kembang Tunjung Biru",02
+https://archive.org/download/wahyu/9995.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kembang%20wijaya%20kusuma--sutejo-.png" group-title="Kembang Tunjung Biru",03
+https://archive.org/download/wahyu/9996.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kembang%20wijaya%20kusuma--sutejo-.png" group-title="Kembang Tunjung Biru",04
+https://archive.org/download/wahyu/9997.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kembang%20wijaya%20kusuma--sutejo-.png" group-title="Kembang Tunjung Biru",05
+https://archive.org/download/wahyu/9998.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kembang%20wijaya%20kusuma--sutejo-.png" group-title="Kembang Tunjung Biru",06
+https://archive.org/download/wahyu/9999.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kembang%20wijaya%20kusuma--sutejo-.png" group-title="Kembang Tunjung Biru",07
+https://archive.org/download/wahyu/99991.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",01
+https://archive.org/download/wahyu/aa01.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",02
+https://archive.org/download/wahyu/aa02.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",03
+https://archive.org/download/wahyu/aa03.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",04
+https://archive.org/download/wahyu/aa04.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",05
+https://archive.org/download/wahyu/aa05.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",06
+https://archive.org/download/wahyu/aa06.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",07
+https://archive.org/download/wahyu/aa07.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",08
+https://archive.org/download/wahyu/aa08.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",09
+https://archive.org/download/wahyu/aa09.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",10
+https://archive.org/download/wahyu/aa10.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",11
+https://archive.org/download/wahyu/aa11.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",12
+https://archive.org/download/wahyu/aa12.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",13
+https://archive.org/download/wahyu/aa13.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",14
+https://archive.org/download/wahyu/aa14.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/kresna%20boyong.png" group-title="Kresna Boyong",15
+https://archive.org/download/wahyu/aa15.mp3
+
+
+
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",01
+https://archive.org/download/seri18/49.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",02
+https://archive.org/download/seri18/50.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",03
+https://archive.org/download/seri18/51.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",04
+https://archive.org/download/seri18/52.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",05
+https://archive.org/download/seri18/53.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",06
+https://archive.org/download/seri18/54.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",07
+https://archive.org/download/seri18/55.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/Pandawa%20Mbangun%20Praja.png" group-title="Pandawa Maneges",08
+https://archive.org/download/seri18/56.mp3
+
+
+
 shfredmi@ ~K2022
 https://archive.org/details/iconwayang
