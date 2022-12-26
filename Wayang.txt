@@ -711,6 +711,39 @@ https://archive.org/download/wahyu/aa91.mp3
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/semar%20maneges.png" group-title="Semar Maneges",15
 https://archive.org/download/wahyu/aa92.mp3
 
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",01
+https://archive.org/download/wahyu/aa93.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",02
+https://archive.org/download/wahyu/aa94.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",03
+https://archive.org/download/wahyu/aa95.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",04
+https://archive.org/download/wahyu/aa96.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",05
+https://archive.org/download/wahyu/aa97.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",06
+https://archive.org/download/wahyu/aa98.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",07
+https://archive.org/download/wahyu/aa99.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",08
+https://archive.org/download/wahyu/aa100.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",09
+https://archive.org/download/wahyu/aa101.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",10
+https://archive.org/download/wahyu/aa102.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",11
+https://archive.org/download/wahyu/aa103.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",12
+https://archive.org/download/wahyu/aa104.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",13
+https://archive.org/download/wahyu/aa105.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",14
+https://archive.org/download/wahyu/aa106.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",15
+https://archive.org/download/wahyu/aa107.mp3
+#EXTINF:1 tvg-logo="https://archive.org/download/iconwayang/Semar%20Mantu.png" group-title="Semar Mantu",16
+https://archive.org/download/wahyu/aa108.mp3
+
 #EXTINF:0 tvg-logo="https://archive.org/details/iconwayang" group-title="",shfredmi ~K2022
 https://archive.org/download/wahyu/aa78.mp3
 
