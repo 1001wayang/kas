@@ -113,7 +113,7 @@ https://archive.org/download/wahyu/947.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",08
 https://archive.org/download/wahyu/948.mp3
 
-#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bima%20labuh.png" group-title="Bima Labuh",08
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bima%20labuh.png" group-title="Bima Labuh",Full
 https://archive.org/download/wahyu/aa179.mp3
 
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",01
