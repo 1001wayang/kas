@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abimanyu%20krama.png" group-title="Abimanyu Kromo",Full
+https://archive.org/download/kasfcfull/Abimanyu%20Kromo%20-%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abimanyu%20krama.png" group-title="Abimanyu Lahir",Full
+https://archive.org/download/wahyukatentreman/Abimanyu%20Lahir.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",01 Kusuma
 https://archive.org/download/wahyu/A.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",02
@@ -17,6 +22,65 @@ https://archive.org/download/wahyu/G.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/abimanyu%20lahir.png" group-title="Abimanyu Lahir",08
 https://archive.org/download/wahyu/H.mp3
 
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abiyasa%20lahir.png" group-title="Abiyasa Lahir",01
+https://archive.org/download/abiyasalahir01/Abiyasa%20Lahir%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abiyasa%20lahir.png" group-title="Abiyasa Lahir",02
+https://archive.org/download/abiyasalahir01/Abiyasa%20Lahir%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abiyasa%20lahir.png" group-title="Abiyasa Lahir",03
+https://archive.org/download/abiyasalahir01/Abiyasa%20Lahir%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abiyasa%20lahir.png" group-title="Abiyasa Lahir",04
+https://archive.org/download/abiyasalahir01/Abiyasa%20Lahir%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abiyasa%20lahir.png" group-title="Abiyasa Lahir",05
+https://archive.org/download/abiyasalahir01/Abiyasa%20Lahir%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abiyasa%20lahir.png" group-title="Abiyasa Lahir",06
+https://archive.org/download/abiyasalahir01/Abiyasa%20Lahir%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/abiyasa%20lahir.png" group-title="Abiyasa Lahir",07
+https://archive.org/download/abiyasalahir01/Abiyasa%20Lahir%2007.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/aji%20narantaka.png" group-title="Aji Narantaka",Full
+https://archive.org/download/wayangkulitfull4/Aji%20Narantaka%20-%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/alap%20alapan%20sukesi.png" group-title="Alap Alapan Sukesi",01
+https://archive.org/download/wayangfullzz/Alap%20Alapan%20Sukesi%201%20~%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/alap%20alapan%20sukesi.png" group-title="Alap Alapan Sukesi",02
+https://archive.org/download/wayangfullzz/Alap%20Alapan%20Sukesi%202%20~%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/alap%20alapan%20sukesi.png" group-title="Alap Alapan Sukesi",03
+https://archive.org/download/wayangfullzz/Alap%20Alapan%20Sukesi%203%20~%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/alap%20alapan%20sukesi.png" group-title="Alap Alapan Sukesi",04
+https://archive.org/download/wayangfullzz/Alap%20Alapan%20Sukesi%204%20~%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/alap%20alapan%20sukesi.png" group-title="Alap Alapan Sukesi",05
+https://archive.org/download/wayangfullzz/Alap%20Alapan%20Sukesi%205%20~%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/alap%20alapan%20sukesi.png" group-title="Alap Alapan Sukesi",06
+https://archive.org/download/wayangfullzz/Alap%20Alapan%20Sukesi%206%20~%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/amarta%20binangun.png" group-title="Amarta Binangun",01
+https://archive.org/download/amartobinangun04.kurniafmtrenggalek/amarto%20binangun%2001.Kurnia%20FM%20Trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/amarta%20binangun.png" group-title="Amarta Binangun",02
+https://archive.org/download/amartobinangun04.kurniafmtrenggalek/amarto%20binangun%2002.Kurnia%20FM%20Trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/amarta%20binangun.png" group-title="Amarta Binangun",03
+https://archive.org/download/amartobinangun04.kurniafmtrenggalek/amarto%20binangun%2003.Kurnia%20FM%20Trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/amarta%20binangun.png" group-title="Amarta Binangun",04
+https://archive.org/download/amartobinangun04.kurniafmtrenggalek/amarto%20binangun%2004.Kurnia%20FM%20Trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/amarta%20binangun.png" group-title="Amarta Binangun",05
+https://archive.org/download/amartobinangun04.kurniafmtrenggalek/amarto%20binangun%2005.Kurnia%20FM%20Trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/amarta%20binangun.png" group-title="Amarta Binangun",06
+https://archive.org/download/amartobinangun04.kurniafmtrenggalek/amarto%20binangun%2006.Kurnia%20FM%20Trenggalek.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anggada%20mbalela.png" group-title="Anggada Mbalela",01
+https://archive.org/download/anggodombalelo04/ANGGODO%20MBALELO%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anggada%20mbalela.png" group-title="Anggada Mbalela",02
+https://archive.org/download/anggodombalelo04/ANGGODO%20MBALELO%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anggada%20mbalela.png" group-title="Anggada Mbalela",03
+https://archive.org/download/anggodombalelo04/ANGGODO%20MBALELO%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anggada%20mbalela.png" group-title="Anggada Mbalela",04
+https://archive.org/download/anggodombalelo04/ANGGODO%20MBALELO%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anggada%20mbalela.png" group-title="Anggada Mbalela",05
+https://archive.org/download/anggodombalelo04/ANGGODO%20MBALELO%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anggada%20mbalela.png" group-title="Anggada Mbalela",06
+https://archive.org/download/anggodombalelo04/ANGGODO%20MBALELO%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anggada%20mbalela.png" group-title="Anggada Mbalela",07
+https://archive.org/download/anggodombalelo04/ANGGODO%20MBALELO%2007.mp3
+
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",01 Kusuma
 https://archive.org/download/wahyu/I.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",02
@@ -33,6 +97,86 @@ https://archive.org/download/wahyu/N.mp3
 https://archive.org/download/wahyu/O.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/anoman%20maneges.png" group-title="Anoman Maneges",08
 https://archive.org/download/wahyu/P.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",1
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",2
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",3
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",4
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",5
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",6
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",7
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Maneges",8
+https://archive.org/download/anomanmaneges07/Anoman%20Maneges%2008.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/anoman%20obong.png" group-title="Anoman Obong",Full
+https://archive.org/download/kasfcfull/Anoman%20Obong%20-%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/antasena%20mbalela.png" group-title="Antasena Mbalela",Full
+https://archive.org/download/wayangfullzz/Antasena%20Mbalela.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/antasena%20mbalela.png" group-title="Antasena Mbalela",Full Versi 2
+https://archive.org/download/wayangfullzz/Antasena%20Mbalela%20%28Full%202%29.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",01
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",02
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",03
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",04
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",05
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",06
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",07
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",08
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2008.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",09
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2009.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",10
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2010.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",11
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",12
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2012.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",13
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2013.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",14
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2014.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",15
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2015.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Antasena%20Rabi.png" group-title="Antasena Rabi",16
+https://archive.org/download/antasenarabi01/Antasena%20Rabi%2016.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/arjuna%20kinayungan.png" group-title="Arjuna Kinayungan",Full
+https://archive.org/download/wayangfullzz/Arjuna%20Kinayungan%20-%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/arjuna%20kinayungan.png" group-title="Arjuna Kinayungan",Full Unindra
+https://archive.org/download/wayangfullzz/Arjuna%20Kinayungan%20-%20Ki%20Bayu%20Aji%20-%20WISUDA%20KE%2063%20UNINDRA.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/babat%20alas%20wanamarta.png" group-title="Babat Alas Wanamerta",01
+https://archive.org/download/wayangkulitkas/Babat%20Alas%20Wanamerta%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/babat%20alas%20wanamarta.png" group-title="Babat Alas Wanamerta",02
+https://archive.org/download/wayangkulitkas/Babat%20Alas%20Wanamerta%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/babat%20alas%20wanamarta.png" group-title="Babat Alas Wanamerta",03
+https://archive.org/download/wayangkulitkas/Babat%20Alas%20Wanamerta%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/babat%20alas%20wanamarta.png" group-title="Babat Alas Wanamerta",04
+https://archive.org/download/wayangkulitkas/Babat%20Alas%20Wanamerta%20-%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/babat%20alas%20wanamarta.png" group-title="Babat Alas Wanamerta",05
+https://archive.org/download/wayangkulitkas/Babat%20Alas%20Wanamerta%20-%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/babat%20alas%20wanamarta.png" group-title="Babat Alas Wanamerta",06
+https://archive.org/download/wayangkulitkas/Babat%20Alas%20Wanamerta%20-%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/babat%20alas%20wanamarta.png" group-title="Babat Alas Wanamerta",07
+https://archive.org/download/wayangkulitkas/Babat%20Alas%20Wanamerta%20-%2007.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/baladewa%20mbangun-pasar.png" group-title="Baladewa Mbangun Pasar",Full
+https://archive.org/download/wayangfullzz/Baladewa%20Mbangun%20Pasar%20-%20Ki%20Anom%20Suroto.mp3
 
 #EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",01 Fajar
 https://archive.org/download/wahyu/A1.mp3
@@ -64,6 +208,39 @@ https://archive.org/download/wahyu/A94.mp3
 https://archive.org/download/wahyu/A95.mp3
 #EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",15
 https://archive.org/download/wahyu/A96.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",1
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%201.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",2
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%202.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",3
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%203.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",4
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%204.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",5
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%205.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",6
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%206.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",7
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%207.mp3
+#EXTINF:0 tvg-logo="https://ia804701.us.archive.org/5/items/iconwayang/bambang%20pramusinta.png" group-title="Bambang Pramusinta",8
+https://archive.org/download/risangwisanggeni4/Bambang%20Pramusinta%208.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",01
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%201.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",02
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%202.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",03
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%203.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",04
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%204.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",05
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%205.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",06
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%206.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",07
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%207.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bambang%20senggotho.png" group-title="Bambang Senggotho",08
+https://archive.org/download/risangwisanggeni4/Bambang%20Senggotho%208.mp3
 
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",01
 https://archive.org/download/wahyu/A921.mp3
@@ -96,6 +273,78 @@ https://archive.org/download/wahyu/A934.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",16
 https://archive.org/download/wahyu/A935.mp3
 
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",1A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2001.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",1B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2002.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",2A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2003.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",2B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2004.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",3A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2005.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",3B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2006.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",4A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2007.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",4B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2008.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",5A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2009.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",5B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2010.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",6A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2011.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",6B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2012.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",7A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2013.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",7B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2014.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",8A
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2015.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bandung%20nagasewu--naga-gini-.png" group-title="Bandhung Nagasewu",8B
+https://archive.org/download/bandungnagasewu04/Bandung%20Nagasewu%2016.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20anoman.png" group-title="Banjaran Anoman",Full 1
+https://archive.org/download/kasfcfull/Banjaran%20Anoman%20-%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20anoman.png" group-title="Banjaran Anoman",Full 2
+https://archive.org/download/wayangkulitfull4/Banjaran%20Anoman%20-%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20anoman.png" group-title="Banjaran Anoman",Full 3
+https://archive.org/download/wayangkulitkibayuajisutejolahir/LIVE%20ULANG%20-%20KI.%20MPP%20BAYU%20AJI%20-%20LAMPAHAN%20_%20BANJARAN%20ANOMAN%20_.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20bima.png" group-title="Banjaran Bima",Full
+https://archive.org/download/wahyukatentreman/Banjaran%20Bima.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Banjaran%20Gatotkaca.png" group-title="Banjaran Gatotkaca",01
+https://archive.org/download/05.banjarangatutkocokianomsurotokurniafmtrenggalek/01.banjaran%20gatutkoco%20-%20ki%20anom%20suroto%20-%20kurnia%20fm%20trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Banjaran%20Gatotkaca.png" group-title="Banjaran Gatotkaca",02
+https://archive.org/download/05.banjarangatutkocokianomsurotokurniafmtrenggalek/02.banjaran%20gatutkoco%20-%20ki%20anom%20suroto%20-%20kurnia%20fm%20trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Banjaran%20Gatotkaca.png" group-title="Banjaran Gatotkaca",03
+https://archive.org/download/05.banjarangatutkocokianomsurotokurniafmtrenggalek/03.banjaran%20gatutkoco%20-%20ki%20anom%20suroto%20-%20kurnia%20fm%20trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Banjaran%20Gatotkaca.png" group-title="Banjaran Gatotkaca",04
+https://archive.org/download/05.banjarangatutkocokianomsurotokurniafmtrenggalek/04.banjaran%20gatutkoco%20-%20ki%20anom%20suroto%20-%20kurnia%20fm%20trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Banjaran%20Gatotkaca.png" group-title="Banjaran Gatotkaca",05
+https://archive.org/download/05.banjarangatutkocokianomsurotokurniafmtrenggalek/05.banjaran%20gatutkoco%20-%20ki%20anom%20suroto%20-%20kurnia%20fm%20trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Banjaran%20Gatotkaca.png" group-title="Banjaran Gatotkaca",06
+https://archive.org/download/05.banjarangatutkocokianomsurotokurniafmtrenggalek/06.banjaran%20gatutkoco%20-%20ki%20anom%20suroto%20-%20kurnia%20fm%20trenggalek.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Banjaran%20Gatotkaca.png" group-title="Banjaran Gatotkaca",07
+https://archive.org/download/05.banjarangatutkocokianomsurotokurniafmtrenggalek/07.banjaran%20gatutkoco%20-%20ki%20anom%20suroto%20-%20kurnia%20fm%20trenggalek.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20gondomono.png" group-title="Banjaran Gondomono",Full Bangsri
+https://archive.org/download/wayangkulitfull4/Banjaran%20Gondomono%20-%20Ki%20Bayu%20Aji_%20BANGSRI%20GEDE%2C%20CUPLIK%2C%20SUKOHARJO.%2026%20AGUSTUS%202018.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20gondomono.png" group-title="Banjaran Gondomono",Full
+https://archive.org/download/wayangkulitfull4/Banjaran%20Gondomono%20-%20Kibayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20kakrasana.png" group-title="Banjaran Kakrasana",Full
+https://archive.org/download/kasfcfull/Banjaran%20Kakrasana%20-%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/banjaran%20wisanggeni.png" group-title="Banjaran Wisanggeni",Full
+https://archive.org/download/kasfcfullz/Banjaran%20Wisanggeni%20-%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/baratayudha%20jayabinangun.png" group-title="Bharatayudha Jayabinangun",Full
+https://archive.org/download/wahyukatentreman/Barata%20Yudha%20Jayabinangun.mp3
+
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",01 Kusuma
 https://archive.org/download/wahyu/941.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",02
@@ -112,9 +361,169 @@ https://archive.org/download/wahyu/946.mp3
 https://archive.org/download/wahyu/947.mp3
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",08
 https://archive.org/download/wahyu/948.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",1
+https://archive.org/download/basudewakembar02/Basudewa%20Kembar%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",2
+https://archive.org/download/basudewakembar02/Basudewa%20Kembar%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",3
+https://archive.org/download/basudewakembar02/Basudewa%20Kembar%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/basudewa%20kembar.png" group-title="Basudewa Kembar",4
+https://archive.org/download/basudewakembar02/Basudewa%20Kembar%20-%2004.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",01
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%201.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",02
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%202.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",03
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%203.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",04
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%204.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",05
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%205.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",06
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%206.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",07
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%207.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Begawan Ciptaning",08
+https://archive.org/download/risangwisanggeni4/Begawan%20Ciptaning%208.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",01
+https://archive.org/download/01_20190716/01.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",02
+https://archive.org/download/01_20190716/02.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",03
+https://archive.org/download/01_20190716/03.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",04
+https://archive.org/download/01_20190716/04.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",05
+https://archive.org/download/01_20190716/05.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",06
+https://archive.org/download/01_20190716/06.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",07
+https://archive.org/download/01_20190716/07.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",08
+https://archive.org/download/01_20190716/08.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",09
+https://archive.org/download/01_20190716/09.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",10
+https://archive.org/download/01_20190716/10.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",11
+https://archive.org/download/01_20190716/11.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",12
+https://archive.org/download/01_20190716/12.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",13
+https://archive.org/download/01_20190716/13.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",14
+https://archive.org/download/01_20190716/14.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",15
+https://archive.org/download/01_20190716/15.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptarasa.png" group-title="Begawan Ciptarasa",16
+https://archive.org/download/01_20190716/16.mp3
 
 #EXTINF:0 tvg-logo="https://ia904701.us.archive.org/5/items/iconwayang/bima%20labuh.png" group-title="Bima Labuh",Full
 https://archive.org/download/wahyu/aa179.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bilawa%20rangsang.png" group-title="Bilawa Rangsang",Full
+https://archive.org/download/kasfcfullz/Bilawa%20Rangsang%20-%20Ki%20Manteb%20Soedarsono%20%26%20Ki%20Anom%20Suroto.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20bungkus.png" group-title="Bima Bungkus",Disc 1
+https://archive.org/download/disc1_201907/DISC%201.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20bungkus.png" group-title="Bima Bungkus",Disc 2
+https://archive.org/download/disc1_201907/DISC%202.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20bungkus.png" group-title="Bima Bungkus",Disc 3
+https://archive.org/download/disc1_201907/DISC%203.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20bungkus.png" group-title="Bima Bungkus",Disc 4
+https://archive.org/download/disc1_201907/DISC%204.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20bungkus.png" group-title="Bima Bungkus",Disc 5
+https://archive.org/download/disc1_201907/DISC%205.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20labuh.png" group-title="Bima Bungkus",01
+https://archive.org/download/sudamala01/Bima%20Bungkus%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20labuh.png" group-title="Bima Bungkus",02
+https://archive.org/download/sudamala01/Bima%20Bungkus%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20labuh.png" group-title="Bima Bungkus",03
+https://archive.org/download/sudamala01/Bima%20Bungkus%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20labuh.png" group-title="Bima Bungkus",04
+https://archive.org/download/sudamala01/Bima%20Bungkus%20-%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20labuh.png" group-title="Bima Bungkus",05
+https://archive.org/download/sudamala01/Bima%20Bungkus%20-%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20bungkus.png" group-title="Bima Bungkus",Full
+https://archive.org/download/wayangkulitkibayuajisutejolahir/LIVE%20ULANG%20-%20KI.H.%20ANOM%20SUROTO%20%26%20KI.%20MPP%20BAYU%20AJI%20-%20LAMPAHAN%20_%20BIMA%20BUNGKUS%20_.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20krida.png" group-title="Bima Krida",Full
+https://archive.org/download/wayangfullzz/Bima%20Krida%20-%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20kurda.png" group-title="Bima Kurda",Full
+https://archive.org/download/wahyukatentreman/Bima%20Kurda.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20labuh.png" group-title="Bima Labuh",Full
+https://archive.org/download/kasfcfullz/Bima%20Labuh%20-%20Ki%20Anom%20Suroto%20MONUMEN%20BANTARANGIN%20KAB.PONOROGO.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20maneges.png" group-title="Bima Maneges",01
+https://archive.org/download/bimamaneges3/Bima%20Maneges%201.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20maneges.png" group-title="Bima Maneges",02
+https://archive.org/download/bimamaneges3/Bima%20Maneges%202.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20maneges.png" group-title="Bima Maneges",03
+https://archive.org/download/bimamaneges3/Bima%20Maneges%203.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20maneges.png" group-title="Bima Maneges",04
+https://archive.org/download/bimamaneges3/Bima%20Maneges%204.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20maneges.png" group-title="Bima Maneges",05
+https://archive.org/download/bimamaneges3/Bima%20Maneges%205.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20maneges.png" group-title="Bima Maneges",06
+https://archive.org/download/bimamaneges3/Bima%20Maneges%206.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",01
+https://archive.org/download/01anomsurotobimosucioktober2011/01__anom%20suroto__bimo%20suci%20oktober%202011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",02
+https://archive.org/download/01anomsurotobimosucioktober2011/02__anom%20suroto__bimo%20suci%20oktober%202011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",03
+https://archive.org/download/01anomsurotobimosucioktober2011/03__anom%20suroto__bimo%20suci%20oktober%202011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",04
+https://archive.org/download/01anomsurotobimosucioktober2011/04__anom%20suroto__bimo%20suci%20oktober%202011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",05
+https://archive.org/download/01anomsurotobimosucioktober2011/05__anom%20suroto__bimo%20suci%20oktober%202011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",06
+https://archive.org/download/01anomsurotobimosucioktober2011/06__anom%20suroto__bimo%20suci%20oktober%202011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",07
+https://archive.org/download/01anomsurotobimosucioktober2011/07__anom%20suroto__bimo%20suci%20oktober%202011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20maneges.png" group-title="Bima Maneges",Full
+https://archive.org/download/wayangfullzz/Bima%20Suci%20%28Padepokan%20Argokeloso%29.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",Full
+https://archive.org/download/wahyukatentreman/Bima%20Sakti.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",Full Live Sragen
+https://archive.org/download/wayangkulitfull4/Bima%20Suci%20-%20Ki%20Bayu%20Aji%20-%20Dk%20DAYU%20-%20Ds%20JURANG%20JERO%20-%20KARANGMALANG%20SRAGEN.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bima%20suci.png" group-title="Bima Suci",Full
+https://archive.org/download/wayangkulitkibayuajisutejolahir/LIVE%20KI.%20MPP%20BAYU%20AJI%20-%20LAMPAHAN%20-%20BIMA%20SUCI%20-%20Dk%20DAYU%20-%20Ds%20JURANG%20JERO%20-%20KARANGMALANG%20SRAGEN.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",01
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%201.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",02
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%202.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",03
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%203.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",04
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%204.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",05
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%205.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",06
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%206.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",07
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%207.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bisma%20gugur.png" group-title="Bisma Gugur",08
+https://archive.org/download/risangwisanggeni4/Bisma%20Gugur%208.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/brajadenta%20mbalela.png" group-title="Brajadenta Mbalela",Full
+https://archive.org/download/wahyukatentreman/Brajadenta%20Mbalela.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/bratasena%20babat%20alas.png" group-title="Bratasena Babat Alas",Full
+https://archive.org/download/wayangfullzz/Bratasena%20Babat%20Alas%20-%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Bratasena%20Krama.png" group-title="Bratasena Krama",Full
+https://archive.org/download/wayangkulitfull4/Bratasena%20Krama%20-%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji%20_%20KDM.%20PASURUAN%20JATIM.%2031%20AGUSTUS%202018.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/brubuh%20alengka--dasamuka-gugur.png" group-title="Brubuh Alengka",Full
+https://archive.org/download/wayangkulitfull4/Brubuh%20Alengka%20-%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/brubuh%20alengka--dasamuka-gugur.png" group-title="Brubuh Alengka",Full
+https://archive.org/download/wayangkulitfull4/Sirnaning%20Angkara%20Murka%20-%20Dasamuka%20Gugur%20-%20Ki%20Bayu%20Aji.mp3
 
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/begawan%20ciptaning.png" group-title="Ciptaning",01 Kusuma
 https://archive.org/download/seri18/01.mp3
@@ -165,6 +574,109 @@ https://archive.org/download/wahyu/954.mp3
 https://archive.org/download/wahyu/955.mp3
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",08
 https://archive.org/download/wahyu/956.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",1A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",1B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",2A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",2B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",3A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",3B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",4A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",4B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2008.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",5A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2009.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",5B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2010.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",6A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",6B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2012.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",7A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2013.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",7B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2014.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",8A
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2015.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",8B
+https://archive.org/download/sudamala01/Dewo%20Ruci%20-%2016.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",Full
+https://archive.org/download/kasfcfull/Dewa%20Ruci%20-%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",Full
+https://archive.org/download/wayangfullzz/Dewa%20Ruci%20-%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/dewa%20ruci.png" group-title="Dewa Ruci",Full
+https://archive.org/download/wayangkulitfull4/Dewa%20Ruci%20-%20Ki%20Anom%20suroto%20%26%20Ki%20Bayu%20Aji.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",01
+https://archive.org/download/durnogugur03/Durno%20Gugur%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",02
+https://archive.org/download/durnogugur03/Durno%20Gugur%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",03
+https://archive.org/download/durnogugur03/Durno%20Gugur%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",04
+https://archive.org/download/durnogugur03/Durno%20Gugur%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",05
+https://archive.org/download/durnogugur03/Durno%20Gugur%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",06
+https://archive.org/download/durnogugur03/Durno%20Gugur%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",07
+https://archive.org/download/durnogugur03/Durno%20Gugur%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",08
+https://archive.org/download/durnogugur03/Durno%20Gugur%2008.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",09
+https://archive.org/download/durnogugur03/Durno%20Gugur%2009.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",10
+https://archive.org/download/durnogugur03/Durno%20Gugur%2010.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",11
+https://archive.org/download/durnogugur03/Durno%20Gugur%2011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",12
+https://archive.org/download/durnogugur03/Durno%20Gugur%2012.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",13
+https://archive.org/download/durnogugur03/Durno%20Gugur%2013.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",14
+https://archive.org/download/durnogugur03/Durno%20Gugur%2014.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",15
+https://archive.org/download/durnogugur03/Durno%20Gugur%2015.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",16
+https://archive.org/download/durnogugur03/Durno%20Gugur%2016.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",1A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",1B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",2A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",2B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",3A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",3B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",4A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",4B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2008.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",5A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2009.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",5B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2010.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",6A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",6B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2012.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",7A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2013.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",7B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2014.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",8A
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2015.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/durna%20gugur.png" group-title="Dorna Gugur",8B
+https://archive.org/download/sudamala01/Durna%20Gugur%20-%2016.mp3
 
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",01 Dahlia
 https://archive.org/download/seri18/17
@@ -198,6 +710,18 @@ https://archive.org/download/seri18/30
 https://archive.org/download/seri18/31
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",16
 https://archive.org/download/seri18/32
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",CD1
+https://archive.org/download/cd05_20190716/CD%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",CD2
+https://archive.org/download/cd05_20190716/CD%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",CD3
+https://archive.org/download/cd05_20190716/CD%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",CD4
+https://archive.org/download/cd05_20190716/CD%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",CD5
+https://archive.org/download/cd05_20190716/CD%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/duryodana%20gugur.png" group-title="Duryudana Gugur",CD6
+https://archive.org/download/cd05_20190716/CD%2006.mp3
 
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/gatotkaca%20senopati.png" group-title="Gatotkaca Kridha",01 Kusuma
 https://archive.org/download/wahyu/957.mp3
@@ -1028,6 +1552,57 @@ https://archive.org/download/wahyu/aa181.mp3
 
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",Full Kusuma
 https://archive.org/download/wahyu/aa182.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",Full
+https://archive.org/download/wayangfullzz/Wisanggeni%20Lahir%20-%20Ki%20Anom%20Suroto%20%26%20Ki%20Bayu%20Aji.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",1A
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",1B
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",2A
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",2B
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",3A
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",3B
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",4A
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",4B
+https://archive.org/download/wahyukembar3/Wisanggeni%20Lahir%20-%2008.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",01
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",02
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",03
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",04
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",05
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",06
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",07
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",08
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2008.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",09
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2009.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",10
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2010.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",11
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2011.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",12
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2012.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",13
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2013.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",14
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2014.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Lahir.png" group-title="Wisanggeni Lahir",15
+https://archive.org/download/wisanggenilahir11/Wisanggeni%20Lahir%2015.mp3
+
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Wisanggeni%20Maneges.png" group-title="Wisanggeni Maneges",Full
+https://archive.org/download/kasfcfullz/Wisanggeni%20Maneges%20-%20Ki%20Anom%20Suroto.mp3
 
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",01 Dahlia
 https://archive.org/download/wahyu/aa171.mp3
@@ -1045,6 +1620,23 @@ https://archive.org/download/wahyu/aa176.mp3
 https://archive.org/download/wahyu/aa177.mp3
 #EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",08
 https://archive.org/download/wahyu/aa178.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",1A
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2001.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",1B
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2002.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",2A
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2003.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",2B
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2004.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",3A
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2005.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",3B
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2006.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",4A
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2007.mp3
+#EXTINF:0 tvg-logo="https://archive.org/download/iconwayang/Yudistira%20Wisuda.png" group-title="Yudistira Wisuda",4B
+https://archive.org/download/yudistirawisuda01/Yudistira%20Wisuda%20-%2008.mp3
+
 
 shfredmi ~K2022
 https://archive.org/details/iconwayang
